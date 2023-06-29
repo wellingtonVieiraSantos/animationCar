@@ -6,5 +6,3 @@
 
 1. Clone o repositório `git clone https://github.com/wellingtonVieiraSantos/animationCar.git`
 2. Navegue até o diretório do projeto: `cd animationCar`
-
-![Car Animation](assets/img/car.mp4)
