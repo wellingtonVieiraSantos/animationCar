@@ -15,7 +15,7 @@
 .carro{
     width: 600px;
     height: 600px;
-    background-image: url(/assets/img/carro.png);
+    background-image: url(../img/carro.png);
     background-repeat: no-repeat;
     background-position: center;
     background-size: contain;
@@ -24,7 +24,7 @@
 .carro::before,.carro::after{
     content: "";
     position: absolute;
-    background-image: url(/assets/img/roda.png);
+    background-image: url(../img/roda.png);
     background-size: cover;
     height: 120px;
     width: 120px;
